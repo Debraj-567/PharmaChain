@@ -1,0 +1,7 @@
+{
+  "name": "PharmaChain AI",
+  "description": "AI-powered Pharmacy Management System with Blockchain Authentication",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
